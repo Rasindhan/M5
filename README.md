@@ -251,6 +251,5 @@ int main() {
 
 ## RESULT
 
-Thus the C program to read and display an array of any 6 integer elements using pointer has been executed
-
+Thus the C program to read and display an array of any 6 integer elements using pointer has been executed successfully.
 
